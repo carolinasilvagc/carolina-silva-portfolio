@@ -8,7 +8,7 @@ import {AiFillFolderOpen} from 'react-icons/ai'
 const About = () => {
   return (
     <section id='about'>
-      <h5>Conheça um pouco</h5>
+      <h5>Meu resumo</h5>
       <h2>Sobre mim</h2>
 
       <div className='container about__container'>

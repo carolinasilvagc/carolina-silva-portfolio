@@ -16,8 +16,8 @@ import {SiDatadog} from 'react-icons/si'
 const Experience = () => {
   return (
     <section id='experience'>
-      <h5>Conjunto de habilidades</h5>
-      <h2>Minhas skills técnicas</h2>
+      <h5>Minhas habilidades</h5>
+      <h2>Skills técnicas</h2>
 
       <div className='container experience__container'>
         <div className='experience__frontend'>
