@@ -13,4 +13,4 @@ As tecnologias usadas aqui:
 5. Múltiplas opções de contato (e-mail e whatsapp)
 6. Criação de Carrossel com SwiperJS
 
-Para acessar o projeto, vá para: https://carolinasilvagc.github.io
+## Para acessar o projeto, vá para: https://carolina-silva-portfolio.vercel.app/
