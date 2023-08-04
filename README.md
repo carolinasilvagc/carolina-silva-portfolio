@@ -6,7 +6,7 @@ Trata-se de uma aplicação web construída com componentes funcionais em React 
 
 As tecnologias usadas aqui:
 
-1. Construção de um projeto React com scratch
+1. Componentes funcionais React
 2. Utilização de React Hooks
 3. Biblioteca React Icons
 4. Design moderno e responsivo com CSS 3
