@@ -64,6 +64,10 @@
   color: var(--color-light);
 }
 
+span {
+  color: var(--color-primary-variant);
+}
+
 /* MEDIA QUERIES (MEDIUM DEVICES) */
 @media screen and (max-width: 1024px) {
   .about__container {
