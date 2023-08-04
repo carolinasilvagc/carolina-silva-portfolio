@@ -1,4 +1,4 @@
-# Meu Portfólio no GitHub Pages 
+# Meu Portfólio em React
 
 Inicialmente, este era um exercício proposto pela Trybe no início do curso. A ideia era treinar um pouco de HTML e CSS, sem muita complexidade.
 
