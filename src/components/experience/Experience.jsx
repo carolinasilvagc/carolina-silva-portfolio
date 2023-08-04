@@ -20,7 +20,7 @@ import {SiCypress} from 'react-icons/si'
 import {FaGithub} from 'react-icons/fa'
 import {FaTrello} from 'react-icons/fa'
 import {FaJira} from 'react-icons/fa'
-import {BsGit, BsGithub} from 'react-icons/bs'
+import {BsGit} from 'react-icons/bs'
 
 
 const Experience = () => {
