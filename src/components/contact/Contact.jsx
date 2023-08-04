@@ -29,13 +29,13 @@ const Contact = () => {
             <FaWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
             <h5>+55 (14)99804-7572</h5>
-            <a href='https://api.whatsapp.com/send?phone=5514998047572'>Fale comigo</a>
+            <a href='https://api.whatsapp.com/send?phone=5514998047572' target='_blank' rel="noreferrer">Fale comigo</a>
           </article>
           <article className='contact__option'>
             <FaInstagram className='contact__option-icon'/>
             <h4>Instagram</h4>
             <h5>@lollacodes</h5>
-            <a href='https://www.instagram.com/lollacodes'>Acompanhe meu conteúdo</a>
+            <a href='https://www.instagram.com/lollacodes' target='_blank' rel="noreferrer">Acompanhe meu conteúdo</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
