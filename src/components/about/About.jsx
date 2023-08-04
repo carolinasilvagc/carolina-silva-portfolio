@@ -39,7 +39,7 @@ const About = () => {
 
           <p>
             Oi, Eu sou a Carol! <br/>
-            Inicialmente, me formei em Jornalismo, mas logo percebi que, na verdade, aquilo que me move é a tecnologia. Por conta disso, transicionei de carreira e estudei Desenvolvimento Web Full-Stack. Desde então, venho me dedicando a aprender cada vez mais sobre esse universo. <br/>
+            Inicialmente, me formei em Jornalismo, mas logo percebi que aquilo que me move é a tecnologia. Por conta disso, transicionei de carreira. Desde então, venho me dedicando a aprender cada vez mais sobre esse universo. Também estou explorando as redes sociais <a href='https://www.instagram.com/lollacodes' target='_blank' rel="noreferrer">criando conteúdo no Instagram</a>. Por lá, me chamo Lolla. Se quiser acompanhar meu conteúdo, ficarei grata! <br/>
             Obs: Essa imagem à esquerda é uma ilustração minha gerada por uma IA chamada Lensa. Legal, né?
           </p>
 
