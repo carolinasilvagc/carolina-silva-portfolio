@@ -1,4 +1,4 @@
-# Meu Portfólio no GitHub Pages 
+# Meu Portfólio em React
 
 Inicialmente, este era um exercício proposto pela Trybe no início do curso. A ideia era treinar um pouco de HTML e CSS, sem muita complexidade.
 
@@ -13,4 +13,4 @@ As tecnologias usadas aqui:
 5. Múltiplas opções de contato (e-mail e whatsapp)
 6. Criação de Carrossel com SwiperJS
 
-Para acessar o projeto, vá para: https://carolinasilvagc.github.io
+## Para acessar o projeto, vá para: https://carolina-silva-portfolio.vercel.app/
