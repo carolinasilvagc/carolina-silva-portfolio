@@ -1,12 +1,12 @@
 # Meu Portfólio em React
 
-Inicialmente, este era um exercício proposto pela Trybe no início do curso. A ideia era treinar um pouco de HTML e CSS, sem muita complexidade.
+Trata-se de uma aplicação web construída com componentes funcionais em React para apresentar meus trabalhos, habilidades, formas de contato e recomendações.
 
-Porém, após finalizar o módulo de front-end, pensei que deveria dar atenção a esse projeto e de fato desenvolver um portfólio em React.
+![portfolio1](https://github.com/carolinasilvagc/carolina-silva-portfolio/assets/110493081/01f4e6f3-1ea4-4e93-b1b8-dbb1d72fd15b)
 
 As tecnologias usadas aqui:
 
-1. Construção de um projeto React com scratch
+1. Componentes funcionais React
 2. Utilização de React Hooks
 3. Biblioteca React Icons
 4. Design moderno e responsivo com CSS 3
