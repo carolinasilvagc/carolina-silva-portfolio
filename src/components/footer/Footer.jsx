@@ -23,7 +23,7 @@ const Footer = () => {
       </div>
 
       <div className='footer__copyright'>
-        <small>&copy; Página criada por <a href='https://www.github.com/carolinasilvagc'>Carolina Silva</a>. Todos os direitos reservados.</small>
+        <small>&copy; Página criada por <a href='https://www.github.com/carolinasilvagc' target='_blank' rel="noreferrer">Carolina Silva</a>. Todos os direitos reservados.</small>
       </div>
     </footer>
   )
