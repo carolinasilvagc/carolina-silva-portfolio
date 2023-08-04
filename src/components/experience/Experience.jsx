@@ -12,6 +12,16 @@ import {SiPython} from 'react-icons/si'
 import {GrMysql} from 'react-icons/gr'
 import {SiDocker} from 'react-icons/si'
 import {SiDatadog} from 'react-icons/si'
+import {SiTestinglibrary} from 'react-icons/si'
+import {SiJest} from 'react-icons/si'
+import {SiMocha} from 'react-icons/si'
+import {SiChai} from 'react-icons/si'
+import {SiCypress} from 'react-icons/si'
+import {FaGithub} from 'react-icons/fa'
+import {FaTrello} from 'react-icons/fa'
+import {FaJira} from 'react-icons/fa'
+import {BsGit, BsGithub} from 'react-icons/bs'
+
 
 const Experience = () => {
   return (
@@ -111,6 +121,81 @@ const Experience = () => {
               <div>
                 <h4>Datadog</h4>
                 <small className='text-light'>Iniciante</small>
+              </div>
+            </article>
+          </div>
+        </div>
+
+        <div className='experience__tests'>
+          <h3>Testes</h3>
+          <div className='experience__content'>
+            <article className='experience__details'>
+              <SiJest className='experience__details-icon'/>
+              <div>
+                <h4>Jest</h4>
+                <small className='text-light'>Avançado</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <SiTestinglibrary className='experience__details-icon'/>
+              <div>
+                <h4>React Testing Library</h4>
+                <small className='text-light'>Avançado</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <SiMocha className='experience__details-icon'/>
+              <div>
+                <h4>Mocha</h4>
+                <small className='text-light'>Intermediário</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <SiChai className='experience__details-icon'/>
+              <div>
+                <h4>Chai</h4>
+                <small className='text-light'>Intermediário</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <SiCypress className='experience__details-icon'/>
+              <div>
+                <h4>Cypress</h4>
+                <small className='text-light'>Iniciante</small>
+              </div>
+            </article>
+          </div>
+        </div>
+
+        <div className='experience__extra'>
+          <h3>Outros</h3>
+          <div className='experience__content'>
+            <article className='experience__details'>
+              <FaGithub className='experience__details-icon'/>
+              <div>
+                <h4>GitHub</h4>
+                <small className='text-light'>Avançado</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <FaTrello className='experience__details-icon'/>
+              <div>
+                <h4>Trello</h4>
+                <small className='text-light'>Avançado</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <FaJira className='experience__details-icon'/>
+              <div>
+                <h4>Jira</h4>
+                <small className='text-light'>Intermediário</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsGit className='experience__details-icon'/>
+              <div>
+                <h4>Git</h4>
+                <small className='text-light'>Avançado</small>
               </div>
             </article>
           </div>
