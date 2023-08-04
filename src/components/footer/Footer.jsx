@@ -7,7 +7,7 @@ import {BsLinkedin} from 'react-icons/bs'
 const Footer = () => {
   return (
     <footer>
-      <a href='#' className='footer__logo'>LOLLACODES</a>
+      <a href='#' className='footer__logo'>Portfólio - Carolina Silva</a>
       <ul className='permalinks'>
         <li><a href='#'>Home</a></li>
         <li><a href='#about'>Sobre mim</a></li>
@@ -23,7 +23,7 @@ const Footer = () => {
       </div>
 
       <div className='footer__copyright'>
-        <small>&copy; Página criada por Carolina Silva. Todos os direitos reservados.</small>
+        <small>&copy; Página criada por <a href='https://www.github.com/carolinasilvagc'>Carolina Silva</a>. Todos os direitos reservados.</small>
       </div>
     </footer>
   )

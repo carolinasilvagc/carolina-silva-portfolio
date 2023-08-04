@@ -56,6 +56,14 @@ footer a {
   color: var(--color-primary);
 }
 
+small a {
+  color: var(--color-primary);
+}
+
+small a:hover {
+  color: var(--color-primary-variant);
+}
+
 /* MEDIA QUERIES (SMALL DEVICES) */
 @media screen and (max-width: 600px) {
   .permalinks {
