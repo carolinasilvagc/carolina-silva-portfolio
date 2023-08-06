@@ -10,13 +10,14 @@ const Portfolio = () => {
 
       <div className='container portfolio__container'>
         {
-          projectsArray.map(({id, image, title, github, project}) => {
+          projectsArray.map(({id, image, title, description, github, project}) => {
             return(
               <article key={id} className='portfolio__item'>
                 <div className='portfolio__item-image'>
                   <img src={image} alt={title}/>
                 </div>
                 <h3>{title}</h3>
+                <p className='portfolio__item-description'>{description}</p>
                 <div className="portfolio__item-cta">
                   <a href={github} className='btn' target='_blank' rel="noreferrer">Ver GitHub</a>
                   <a href={project} className='btn btn-primary' target='_blank' rel="noreferrer">Ver Projeto</a>
