@@ -1,6 +1,6 @@
 import React from 'react'
 import './hobbies.css'
-import {IoGameController} from 'react-icons/io5'
+import {IoGameControllerOutline} from 'react-icons/io5'
 import {FaLaptopCode} from 'react-icons/fa'
 import {FiSmartphone} from 'react-icons/fi'
 import {IoShareSocialSharp} from 'react-icons/io5'
@@ -8,6 +8,11 @@ import {BiCameraMovie} from 'react-icons/bi'
 import {FiMusic} from 'react-icons/fi'
 import {PiTelevisionSimpleBold} from 'react-icons/pi'
 import {BiBookBookmark} from 'react-icons/bi'
+import {BsAirplane} from 'react-icons/bs'
+import {PiHamburger} from 'react-icons/pi'
+import {LuCat} from 'react-icons/lu'
+import {BsChatDots} from 'react-icons/bs'
+
 
 const Hobbies = () => {
   return (
@@ -22,7 +27,7 @@ const Hobbies = () => {
           </div>
           <ul className='hobby__list'>
             <li>
-              <IoGameController className='hobby__list-icon'/>
+              <IoGameControllerOutline className='hobby__list-icon'/>
               <p>Games</p>
             </li>
             <li>
@@ -60,6 +65,30 @@ const Hobbies = () => {
             <li>
               <BiBookBookmark className='hobby__list-icon'/>
               <p>Livros</p>
+            </li>
+          </ul>
+        </article>
+
+        <article className='hobby'>
+          <div className='hobby__head'>
+            <h3>Outros</h3>
+          </div>
+          <ul className='hobby__list'>
+            <li>
+              <BsAirplane className='hobby__list-icon'/>
+              <p>Viajar</p>
+            </li>
+            <li>
+              <PiHamburger className='hobby__list-icon'/>
+              <p>Comida</p>
+            </li>
+            <li>
+              <LuCat className='hobby__list-icon'/>
+              <p>Gatos</p>
+            </li>
+            <li>
+              <BsChatDots className='hobby__list-icon'/>
+              <p>Bater papo</p>
             </li>
           </ul>
         </article>

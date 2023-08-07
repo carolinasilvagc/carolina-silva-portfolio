@@ -26,12 +26,6 @@ const Contact = () => {
             <a href='mailto:carolinasilvagc08@gmail.com'>Envie uma mensagem</a>
           </article>
           <article className='contact__option'>
-            <FaWhatsapp className='contact__option-icon'/>
-            <h4>WhatsApp</h4>
-            <h5>+55 (14)99804-7572</h5>
-            <a href='https://api.whatsapp.com/send?phone=5514998047572' target='_blank' rel="noreferrer">Fale comigo</a>
-          </article>
-          <article className='contact__option'>
             <FaInstagram className='contact__option-icon'/>
             <h4>Instagram</h4>
             <h5>@lollacodes</h5>
