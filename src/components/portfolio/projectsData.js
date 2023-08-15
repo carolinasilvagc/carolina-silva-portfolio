@@ -13,7 +13,7 @@ const projectsArray = [
   {
     id: 2,
     image: IMG2,
-    title: 'LollaDash - Dashboard Frontend',
+    title: 'DashLolla - Dashboard Frontend',
     description: 'Front-end para uma aplicação de controle financeiro e de entrada/saída de pedidos.',
     github: 'https://github.com/carolinasilvagc/lolla-dashboard',
     project: 'https://lolla-dashboard.vercel.app/'
